@@ -1,3 +1,13 @@
+"""
+Program: Most-starred JavaScript Repositories.
+Author: Alberto Medina
+Purpose: Retrieve live Github API data and create an interactive Plotly visualization
+    of popular JavaScript repositories.
+Date: Auguts 13,2026"""
+
+
+
+
 import requests
 import plotly.express as ex
 
@@ -46,7 +56,6 @@ fig = ex.bar(
 )
 
 fig.write_html("javascripts_repos.html")
-fig.show()
 
 fig.write_html("javascripts_repos.html")
 fig.write_image(
@@ -55,3 +64,5 @@ fig.write_image(
     height=900,
     scale=2
 )
+
+fig.show()
