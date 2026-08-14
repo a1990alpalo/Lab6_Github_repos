@@ -29,14 +29,14 @@ Because the program uses live API data, repository names and star counts may cha
 ## Project Files
 
 - `Lab17_amedina6-2.py` — Main Python program
-- `javascript_repos.html` — Interactive Plotly visualization
-- `javascript_repos.png` — Static visualization preview
+- `javascripts_repos.html` — Interactive Plotly visualization
+- `javascripts_repos.png` — Static visualization preview
 - `requirements.txt` — Python dependencies
 - `README.md` — Project documentation
 
 ## Visualization
 
-![Most-Starred JavaScript Repositories](javascript_repos.png)
+![Most-Starred JavaScript Repositories](javascripts_repos.png)
 
 ## Technologies
 
