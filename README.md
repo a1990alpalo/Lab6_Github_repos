@@ -55,4 +55,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/a1990alpalo/Lab6_Github_repos.git
-cd Lab6_Github_repos
+cd Lab6_Github_repos ```

@@ -57,7 +57,6 @@ fig = ex.bar(
 
 fig.write_html("javascripts_repos.html")
 
-fig.write_html("javascripts_repos.html")
 fig.write_image(
     "javascripts_repos.png",
     width=1600,
