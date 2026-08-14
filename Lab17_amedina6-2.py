@@ -1,12 +1,12 @@
 """
-Program: Most-starred JavaScript Repositories.
+Program: Most-Starred JavaScript Repositories
 Author: Alberto Medina
-Purpose: Retrieve live Github API data and create an interactive Plotly visualization
-    of popular JavaScript repositories.
-Date: Auguts 13,2026"""
-
-
-
+Purpose: Retrieve live GitHub API data and create an interactive Plotly
+    visualization of popular JavaScript repositories.
+Starter code: Adapted from the Chapter 17 python_repos_visual.py example
+    demonstrated in class and based on Python Crash Course, Third Edition.
+Date: August 13, 2026
+"""
 
 import requests
 import plotly.express as ex
